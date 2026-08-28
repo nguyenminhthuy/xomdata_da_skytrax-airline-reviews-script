@@ -1,0 +1,9 @@
+Thông tin kết nối SQL Server
+
+----- SSMS 22 -----
+
+Host:	45.124.94.158
+Port:	1433
+Database:	xomdata_dataset
+Username:	ntmthuy1264140
+Password:	9MRA8!f0U7vVr$
