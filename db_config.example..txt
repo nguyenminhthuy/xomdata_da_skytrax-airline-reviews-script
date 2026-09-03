@@ -1,0 +1,5 @@
+host=YOUR_SERVER
+port=1433
+database=YOUR_DATABASE
+username=YOUR_USERNAME
+password=YOUR_PASSWORD
